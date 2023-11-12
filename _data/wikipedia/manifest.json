@@ -1,0 +1,39 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mfgaede.github.io/the-march/wikipedia/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Wikipedia" ] },
+    "homepage": [
+      {
+        "id": "https://en.wikipedia.org/wiki/File:The_March_(1964_film).webm",
+        "type": "Text",
+        "label": { "en": [ "Wikipedia" ] },
+        "format": "text/html"
+      }
+    ],
+    "items": [
+      {
+        "id": "https://mfgaede.github.io/the-march/wikipedia/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1991.0,
+        "items": [
+          {
+            "id": "https://mfgaede.github.io/the-march/wikipedia/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://mfgaede.github.io/the-march/wikipedia/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The_March_%281964_film%29.webm/1920px--The_March_%281964_film%29.webm.jpg",
+                    "duration": 1991.0
+                },
+                "target": "https://mfgaede.github.io/the-march/wikipedia/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
