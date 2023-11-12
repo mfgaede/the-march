@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mfgaede.github.io/the-march/internet-archive/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Internet Archive" ] },
+    "homepage": [
+      {
+        "id": "https://themarch.uoregon.edu/",
+        "type": "Text",
+        "label": { "en": [ "Internet Archive" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://legacy.catalog.archives.gov/id/49737",
+        "type": "Agent",
+        "label": { "en": [ "National Archives and Records Administration" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://mfgaede.github.io/the-march/internet-archive/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1226.0,
+        "items": [
+          {
+            "id": "https://mfgaede.github.io/the-march/internet-archive/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://mfgaede.github.io/the-march/internet-archive/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://archive.org/download/gov.archives.arc.49737/gov.archives.arc.49737_512kb.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 1226.0
+                },
+                "target": "https://mfgaede.github.io/the-march/internet-archive/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
