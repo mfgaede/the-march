@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mfgaede.github.io/the-march/panopto/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Panopto" ] },
+    "items": [
+      {
+        "id": "https://mfgaede.github.io/the-march/panopto/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1991.0,
+        "items": [
+          {
+            "id": "https://mfgaede.github.io/the-march/panopto/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://mfgaede.github.io/the-march/panopto/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://uoregon.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f8756a3f-70e7-45f6-b7b2-af5c013fcd12&start=0",
+                    "duration": 1991.0
+                },
+                "target": "https://mfgaede.github.io/the-march/panopto/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
