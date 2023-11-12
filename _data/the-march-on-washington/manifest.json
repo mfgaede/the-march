@@ -1,0 +1,38 @@
+{
+  "@context": "https://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.archivelab.org/iiif/gov.archives.arc.49737/manifest.json",
+  "@type": "sc:Manifest",
+  "attribution": "The Internet Archive",
+  "description": "National Archives and Records Administration<br /><br />THE MARCH ON WASHINGTON<br /><br />U.S. Information Agency. (1982 - 10/01/1999)<br /><br />ARC Identifier 49737 / Local Identifier 306.3394. Scenes from Civil Rights March in Washington, D.C., August 1963.  People walking up sidewalk; gathering on Mall, standing, singing.  Lincoln Memorial, Washington Monument, crowd gathered on the Mall.  People marching with signs, many men wearing UAW hats.  People at speakers podium, men with guitars.  Crowds outside of the White House, sign: The Catholic University of America.  Band, people marching down street.  Many signs, including All D.C. wants to vote! Home Rule for DC; Alpha Phi Alpha; and Woodstock Catholic Seminary for Equal Rights. Lincoln Memorial with crowds gathered around reflecting pool.  People singing and clapping at speakers platform.  Signs, people clapping.  Man speaking, woman playing guitar and singing at podium.  More speakers and shots of the crowd.  A chorus, NAACP men in crowd.  Close-ups of people in crowd with bowed heads. Shots taken from above of White House.  More speakers, including Rev. Martin Luther King, Jr.  Women at podium singing We Shall Overcome.  Crowd swaying, singing, holding hands.<br /><br />Made possible by a donation from Public.Resource.Org.",
+  "label": "THE MARCH ON WASHINGTON",
+  "logo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
+  "metadata": [
+    {
+      "label": "title",
+      "value": "THE MARCH ON WASHINGTON"
+    },
+    {
+      "label": "subject",
+      "value": "archives.gov;public.resource.org"
+    },
+    {
+      "label": "date",
+      "value": "1963"
+    },
+    {
+      "label": "creator",
+      "value": "National Archives and Records Administration"
+    }
+  ],
+  "seeAlso": "https://archive.org/metadata/gov.archives.arc.49737",
+  "sequences": [
+    {
+      "@context": "https://iiif.io/api/image/2/context.json",
+      "@id": "https://iiif.archivelab.org/iiif/gov.archives.arc.49737/canvas/default",
+      "@type": "sc:Sequence",
+      "canvases": [],
+      "label": "default"
+    }
+  ],
+  "viewingHint": "paged"
+}
