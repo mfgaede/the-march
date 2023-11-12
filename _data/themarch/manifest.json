@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mfgaede.github.io/the-march/themarch/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "TheMarch" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/the-march",
+        "type": "Text",
+        "label": { "en": [ "TheMarch" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://themarch.uoregon.edu/",
+        "type": "Agent",
+        "label": { "en": [ "The March" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://mfgaede.github.io/the-march/themarch/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1990.0,
+        "items": [
+          {
+            "id": "https://mfgaede.github.io/the-march/themarch/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://mfgaede.github.io/the-march/themarch/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://archive.org/details/the-march",
+                    "duration": 1990.0
+                },
+                "target": "https://mfgaede.github.io/the-march/themarch/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
