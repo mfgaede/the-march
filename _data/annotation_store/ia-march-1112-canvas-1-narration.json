@@ -1,0 +1,256 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mfgaede.github.io/the-march/annotations/ia-march-1112-canvas-1-narration.json",
+  "type": "AnnotationPage",
+  "label": "Narration",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ia-march-1112-canvas-1-narration-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"A giant step toward dignity and full participation in American life and affairs was taken by the American Negro in the capital of the United States on the day of August 28th, 1963.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "39.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ia-march-1112-canvas-1-narration-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"The step was taken solemnly and in union with many of their White countrymen.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "69.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ia-march-1112-canvas-1-narration-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"The footstep of the March on Washington was firm, with a quiet purpose and a mannerly rhythm. It aroused, even in dissenters, a larger awareness of the right of the Negros, as Americans, to share equally — not only the sun and air, so clear and free on the day of their march, but their right as Americans to share opportunity and privilege as well. America has known this, intellectually, for a long time — for 100 years, by history's calendar. On August 28th, America learned this emotionally, with clarity more penetrating than intellect, every kind and class. Every generation of America participated — if not in the city of Washington, across the land by television, America mutely attended the feeling of the March, and heard the all-encompassing cry for freedom from indignity. America heard back, into the miles of her history, to Lincoln, Jefferson, Tom Paine, Patrick Henry; everybody attended the March in Washington of August 28th.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "148.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ia-march-1112-canvas-1-narration-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"In this city that has a massive traffic problem, even in normal times, traffic had been re-routed, and acres of space had been reserved for the buses that brought the thousands of visiting demonstrators.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "227.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ia-march-1112-canvas-1-narration-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Momentum for the march began slowly. By 11:30 AM, a mounting tide of children, students, parents, grandparents — placards and banners held aloft — were walking down the wide avenue named in honor of the Constitution of the country. No attempt was made or thought given to strict lines of marching. The mood of the day was serious, but relaxed; 200,000 strong they marched, in the largest demonstration for civil rights in the history of the United States.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "292.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ia-march-1112-canvas-1-narration-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Catholics, Protestants, and Jews; the humble and the famous; Westerners, Northerners, and Southerners; a cross section of the 50 states were represented as they progressed along the avenue, loosely grouped together by states or organizations or busloads. Some arrived by roller skates; some by train and plane. Some drove private automobiles thirty, fifty miles. All now walk to the memorial site preserved in honor of Abraham Lincoln. They walk to express to the nation, in a peaceful fashion, their rights — to freely assemble and be heard, as spelled out in the First Amendment of the Constitution of the United States. The First Amendment requires that the government not only refrain from interference with peaceful assemblies; it must restrain the restrainers as well. The Boston Tea Party led off a long chain of effective social protests in America. The suffragette demonstrations spread to many cities before their cause was victorious, and the struggles of American labor were traditionally advertised through the right to peacefully assemble and be heard. A renowned American jurist recently said, 'a function of free speech under our system...is to invite dispute. It may strike at prejudices and preconceptions and have profound unsettling effects as it presses for acceptance of an idea.'\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "349.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ia-march-1112-canvas-1-narration-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"One hundred-fifty members of the Congress of the United States arrived at the rally to add their support, and the support of the people of the states they represent, to the spirit of the March in Washington.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "739.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ia-march-1112-canvas-1-narration-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"As the freedom marchers remained at the monument grounds to close their demonstration in prayer, their leaders moved on to the White House to meet with President Kennedy. The President's active concern with the progress with the Negro in housing, education, and employment is well-known. The members of the overall policy committee of the March in Washington reported the conference was friendly and cooperative. Chairman A. Philip Randolph reports first.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "941.0"
+        }
+      }
+    }
+  ]
+}

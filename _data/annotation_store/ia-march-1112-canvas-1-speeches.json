@@ -1,0 +1,287 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mfgaede.github.io/the-march/annotations/ia-march-1112-canvas-1-speeches.json",
+  "type": "AnnotationPage",
+  "label": "Speeches",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ia-march-1112-canvas-1-speeches-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rev. Fred Shuttlesworth: \"We're going to march. We're going to walk together. We're going to stand together. We're going to sing together. We're going to stay together. We're going to moan together. We're going to groan together, and after a while, we will have freedom, freedom, freedom now! And we all shall be free and [inaudible].\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "556.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ia-march-1112-canvas-1-speeches-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Burt Lancaster: \"All Americans traveling no matter where in the world today are in the position of ambassadors, and are very often made bitterly aware of our country's reputation. It is not easy to be an American abroad. Nor is it easy to make coherent to those who are not Americans the nature and the meaning of our struggle, and we are therefore forever indebted to those Americans represented by the March on Washington Movement for giving us so stunningly an example of what America aspires to become and for helping us to redefine in the middle of this dangerous century what is meant by the American Revolution. We recognize that it is not only in America that the battle for freedom and dignity of peoples is being waived. The struggle toward freedom on the part of the previously-subjugated is occurring in capitals and villages all over the world. It is on our awareness of what this struggle means, and in the degree of our dedication to it, that our future, and the future of the world, depends.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "651.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ia-march-1112-canvas-1-speeches-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Roy Wilkins: \"I want some of you to help me win a bet. I want everyone out here in the open to keep quiet. And I want to hear a yell and a thunder from all those people who are out there under the trees. Let's hear you! Yeah! Yeah! There's one of them in the tree!\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "834.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ia-march-1112-canvas-1-speeches-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. Benjamin E. Mays: \"Let us bow our heads in prayer. God of history and of all mankind; God of Abraham and Moses, Amos and Isaiah, Jesus and Paul; God of our weary years; God of our silent tears; pour out thy benediction upon the United States of America. Pour it out upon President Kennedy...\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "882.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ia-march-1112-canvas-1-speeches-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A. Philip Randolph: \"...is not going — we believe that it's going to have its effect on the image of our country all over the world because it will indicate that not only are Negros struggling to achieve a transition from second-class- to first-class citizenship, but that our white brothers and sisters are marching arm in arm with the Negro citizens of the country for the purpose of achieving this objective. And consequently, this is, and has been, a great American experience.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "984.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ia-march-1112-canvas-1-speeches-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rev. Dr. Eugene Carson Blake: \"...was right. The thing we wanted to do was to get in behind the leadership of the Negro community. Clearly the religious leader of this occasion was Martin Luther King, and we are proud to have served behind and strengthening the witness that he's been carrying. The other thing is that we did produce a non-segregated march...\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1034.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ia-march-1112-canvas-1-speeches-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walter Reuther: \"...and I believe that the real significance of what we have started here today is that we have laid the groundwork for the building of a functioning, broad coalition of Americans from all walks of life, of all points of view, from all races and creeds and color, who can carry on — not only the common struggle to achieve an effective and meaningful civil rights legislation, but who can do this practical work, the day-to-day job of fighting discrimination in education, in housing, in employment, in public accommodation, and I think this is the true significance of what we have started today.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1064.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ia-march-1112-canvas-1-speeches-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Martin Luther King, Jr.: \"Thank you, Mr. Randolph. I would simply like to say that I think this has been one of the great days of America, and I think this march will go down as one of the greatest, if not the greatest, uh, demonstrations for freedom and human dignity ever held in the United States.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1122.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ia-march-1112-canvas-1-speeches-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": " \"The slumbering conscience of America stood aroused, tall and awakened, as twilight fell over the March in Washington of August 28th. It admitted a lingering sense of shame; it admitted pain had been overlooked. In so doing, America reminded herself of her destiny; her aspirations; the dream which brought forth her birth. And America turned her eyes full upon the issues of freedom and justice — issues for all. She turned her attention to the Civil Rights Bill before the Congress, which is currently under examination of the elected representatives of all the towns and cities of the land. She turned her thoughts to the job ahead. The sound and spirit of the massive reminder of the meaning of freedom traveled around the world on the day of August 28th, rightfully initiating from the grounds where Abraham Lincoln sits silently and gravely, watching over this land from memorial erected to his memory. The U.S. is reminded it is not enough to hope together, to pray together; she is reminded she must speak and act for the common good.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1150.0"
+        }
+      }
+    }
+  ]
+}

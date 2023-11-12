@@ -23,6 +23,40 @@
         "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1930.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://mfgaede.github.io/the-march/annotations/ia-march-1112-canvas-1-music.json",
+            "label": {
+              "none": ["Music"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://mfgaede.github.io/the-march/annotations/ia-march-1112-canvas-1-introduction.json",
+            "label": {
+              "none": ["Introduction"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://mfgaede.github.io/the-march/annotations/ia-march-1112-canvas-1-narration.json",
+            "label": {
+              "none": ["Narration"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://mfgaede.github.io/the-march/annotations/ia-march-1112-canvas-1-speeches.json",
+            "label": {
+              "none": ["Speeches"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://mfgaede.github.io/the-march/ia-march-1112/canvas-1/paintings",
