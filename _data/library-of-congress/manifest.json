@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mfgaede.github.io/the-march/library-of-congress/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Library of Congress" ] },
+    "items": [
+      {
+        "id": "https://mfgaede.github.io/the-march/library-of-congress/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1237.0,
+        "items": [
+          {
+            "id": "https://mfgaede.github.io/the-march/library-of-congress/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://mfgaede.github.io/the-march/library-of-congress/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://catalog.archives.gov/id/49737",
+                    "duration": 1237.0
+                },
+                "target": "https://mfgaede.github.io/the-march/library-of-congress/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
