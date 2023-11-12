@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: Internet Archive
+title: YouTube
 manifest_name: internet-archive
 
 ---
