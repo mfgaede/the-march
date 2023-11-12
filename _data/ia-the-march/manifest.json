@@ -3,6 +3,21 @@
     "id": "https://mfgaede.github.io/the-march/ia-the-march/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "ia-the-march" ] },
+    "homepage": [
+      {
+        "id": "https://themarch.uoregon.edu/",
+        "type": "Text",
+        "label": { "en": [ "ia-the-march" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://catalog.archives.gov/id/49737?objectPanel=transcription",
+        "type": "Agent",
+        "label": { "en": [ "NARA" ] }
+      }
+    ],
     "items": [
       {
         "id": "https://mfgaede.github.io/the-march/ia-the-march/canvas-1/canvas",
