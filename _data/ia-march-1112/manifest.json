@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://mfgaede.github.io/the-march/ia-march-1112/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Director" ] },
+    "label": { "en": [ "Director's Cut" ] },
     "homepage": [
       {
         "id": "https://archive.org/details/the-march",
         "type": "Text",
-        "label": { "en": [ "Director" ] },
+        "label": { "en": [ "Director's Cut" ] },
         "format": "text/html"
       }
     ],
