@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: Director's Cut
+title: Directors-Cut
 manifest_name: ia-march-1112
 
 ---
